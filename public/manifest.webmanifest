@@ -1,0 +1,42 @@
+{
+  "name": "Waffar — Verified Coupon Codes",
+  "short_name": "Waffar",
+  "description": "Hand-checked coupon codes and discounts for 180+ stores shipping to Jordan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#171717",
+  "theme_color": "#171717",
+  "lang": "en",
+  "dir": "auto",
+  "categories": ["shopping", "lifestyle"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='120' fill='%239E7FFF'/%3E%3Cpath d='M150 200h212M150 312h212' stroke='%23171717' stroke-width='34' stroke-linecap='round'/%3E%3Ccircle cx='256' cy='256' r='32' fill='%23171717'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23171717'/%3E%3Ccircle cx='256' cy='256' r='150' fill='%239E7FFF'/%3E%3Cpath d='M176 236h160M176 286h160' stroke='%23171717' stroke-width='26' stroke-linecap='round'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "All deals",
+      "short_name": "Deals",
+      "url": "/#deals",
+      "description": "Jump straight to the coupon grid"
+    },
+    {
+      "name": "Download Waffar",
+      "short_name": "Download",
+      "url": "/download",
+      "description": "Install the app on this device"
+    }
+  ]
+}
